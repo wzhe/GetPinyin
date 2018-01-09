@@ -20,3 +20,8 @@ c#版：
 
 ​	测试代码：[PinyinTest.cs](PinyinTest.cs)
 
+c++版 (需要使用 w_char 类型)：
+
+​	单文件：[Pinyin-onefile.cpp](Pinyin-onefile.cpp)
+
+​	头文件与实现分开：[Pinyin.h](Pinyin.h) [Pinyin.cpp](Pinyin.cpp) 
